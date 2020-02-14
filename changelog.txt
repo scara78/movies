@@ -1,0 +1,8 @@
+----------log update----------
+
+5.0 menambah menu profiles di dashboard admin
+5.1 change frame player color
+5.1 change font size on top of player #121212
+5.1.1 update breadcrumbs and service error in google structure data
+5.1.2 upload favicon to admin panel
+5.2 menambah episode series
